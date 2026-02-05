@@ -1,16 +1,18 @@
 # Hello World 👋 I'm Bishesh Shahi
 
 ### 👨‍💻 Data Engineer | CS @ Winona State University
+
 I am a Data Engineer with over 5 years of experience building scalable, cloud-based data platforms across healthcare, insurance, and banking domains. I specialize in designing end-to-end ETL/ELT pipelines and implementing Medallion Architecture to turn raw data into actionable insights.
 
 ---
 
 ### 🚀 Professional Glimpse
-* **Expertise**: Designing robust pipelines using **Apache Spark**, **dbt**, **Airflow**, and **Snowflake**.
-* **Cloud Platforms**: Primary focus on **GCP (BigQuery)**, with deep experience in **AWS** and **Azure**.
-* **Data Architecture**: Implementing **Medallion Architecture** (Bronze, Silver, Gold) and dimensional data modeling (Star Schema).
-* **Compliance**: Experienced in building **HIPAA-compliant** data solutions and secure financial reporting (AML/KYC).
-* **Current Focus**: Enhancing real-time streaming capabilities and learning **Next.js** for full-stack data applications.
+
+- **Expertise**: Designing robust pipelines using **Apache Spark**, **dbt**, **Airflow**, and **Snowflake**.
+- **Cloud Platforms**: Primary focus on **GCP (BigQuery)**, with deep experience in **AWS** and **Azure**.
+- **Data Architecture**: Implementing **Medallion Architecture** (Bronze, Silver, Gold) and dimensional data modeling (Star Schema).
+- **Compliance**: Experienced in building **HIPAA-compliant** data solutions and secure financial reporting (AML/KYC).
+- **Current Focus**: Enhancing real-time streaming capabilities and learning **Next.js** for full-stack data applications.
 
 ---
 
@@ -40,14 +42,20 @@ I am a Data Engineer with over 5 years of experience building scalable, cloud-ba
 ---
 
 ### 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bishesh-Shahi&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBis921/MrBis921/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrBis921/MrBis921/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MrBis921/MrBis921/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
 ### 💬 Let's Connect
-* 📫 **Email**: [bisheshshahi921.com](mailto:bisheshshahi921@gmail.com)
-* 🔗 **LinkedIn**: [bisheshshahi](https://www.linkedin.com/in/bisheshshahi/)
-* 🦾 **Collaboration**: Open to collaborating on **Machine Learning** model training and **Open Source Data Engineering** tools.
-* 🚙 **Fun Fact**: I love long drives and hitting the gym in my free time!
+
+- 📫 **Email**: [bisheshshahi921.com](mailto:bisheshshahi921@gmail.com)
+- 🔗 **LinkedIn**: [bisheshshahi](https://www.linkedin.com/in/bisheshshahi/)
+- 🦾 **Collaboration**: Open to collaborating on **Machine Learning** model training and **Open Source Data Engineering** tools.
+- 🚙 **Fun Fact**: I love long drives and hitting the gym in my free time!
