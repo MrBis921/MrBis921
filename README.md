@@ -48,6 +48,6 @@ I am a Data Engineer with over 5 years of experience building scalable, cloud-ba
 
 ### 💬 Let's Connect
 * 📫 **Email**: [bisheshshahi921.com](mailto:bisheshshahi921@gmail.com)
-* 🔗 **LinkedIn**: [bishesh-shahi](https://www.linkedin.com/in/bisheshshahi/)
+* 🔗 **LinkedIn**: [bisheshshahi](https://www.linkedin.com/in/bisheshshahi/)
 * 🦾 **Collaboration**: Open to collaborating on **Machine Learning** model training and **Open Source Data Engineering** tools.
 * 🚙 **Fun Fact**: I love long drives and hitting the gym in my free time!
